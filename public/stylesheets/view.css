@@ -1,0 +1,29 @@
+/* .viewContainer *{
+    margin-bottom:  5px;
+    
+} */
+
+.viewContainer img{
+    width: 100%;
+}
+button{
+    border: none;
+}
+button a{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+
+@media screen and (min-width: 600px){
+    .viewContainer{
+        margin: 0 20%;
+    }
+
+    p{
+        font-size: 20px;
+    }
+   
+}
+

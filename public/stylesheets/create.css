@@ -1,0 +1,19 @@
+/* Styles for mobile */
+
+@media screen and (min-width: 600px) {
+    .formContainer {
+        margin: 50px 20%;
+        
+    }
+}
+
+button {
+    padding: 3px 16px;
+    font-size: 20px;
+    background-color: black;
+    color: orangered;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 5px 0;
+  }
+  
